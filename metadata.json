@@ -1,0 +1,6 @@
+{
+  "name": "NetPulse AI - Enterprise Network Speed & Diagnostic Suite",
+  "description": "Next-generation AI-powered internet speed testing and enterprise troubleshooting platform with real-time latency graphs, bufferbloat assessment, and commercial SLA compliance reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
